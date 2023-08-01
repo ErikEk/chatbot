@@ -1,2 +1,2 @@
 # chatbot
-Implementation of transformer chatbot
+Implementation of transformers
