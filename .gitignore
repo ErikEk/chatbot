@@ -10,7 +10,7 @@ __pycache__/
 train
 validation
 checkpoints_test
-transformer_model/
+transformer_model
 
 # Distribution / packaging
 .Python
