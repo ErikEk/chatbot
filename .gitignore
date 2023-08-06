@@ -9,8 +9,8 @@ __pycache__/
 # data files
 train
 validation
-checkpoints_test
-transformer_model
+checkpoints_test/
+transformer_model/
 
 # Distribution / packaging
 .Python
