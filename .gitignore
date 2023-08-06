@@ -9,6 +9,7 @@ __pycache__/
 # data files
 train
 validation
+checkpoints_test
 
 # Distribution / packaging
 .Python
